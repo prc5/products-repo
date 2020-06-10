@@ -1,0 +1,25 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  text-align: center;
+}
+
+.error {
+  color: red;
+  font-size: 11px;
+  margin-bottom: 10px;
+  height: 13px;
+}
+
+.btn {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 15px;
+}
