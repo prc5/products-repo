@@ -29,7 +29,7 @@
     "@nestjs/typeorm": "^7.1.0",
     "@types/passport": "^1.0.3",
     "bcrypt": "^5.0.0",
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "class-validator": "^0.12.2",
     "csv-string": "^4.0.1",
     "passport": "^0.4.1",
